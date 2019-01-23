@@ -1,6 +1,5 @@
 //
 //  UILabelLocalize.swift
-//  DCApp
 //
 //  Created by Jorge Cordero Sanchez on 30/12/18.
 //
